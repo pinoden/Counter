@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import cv2
 from trackers.tracker import create_blob, add_new_blobs, remove_duplicates
 import numpy as np
@@ -170,3 +171,6 @@ cv2.destroyAllWindows()
 if args.record:
     log_file.close()
     output_video.release()
+=======
+skfjdlkfj
+>>>>>>> origin/master
